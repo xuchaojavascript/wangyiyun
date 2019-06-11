@@ -1,0 +1,17 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "追梦心音乐",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "menu",
+        "float": "left"
+      },
+      {
+        "type": "none",
+        "text": "",
+        "fontSrc": "/static/uni.ttf"
+      }
+    ]
+  }
+}

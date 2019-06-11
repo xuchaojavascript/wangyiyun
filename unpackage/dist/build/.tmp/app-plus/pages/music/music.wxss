@@ -1,0 +1,13 @@
+
+.progess{
+	padding: 20rpx 10rpx;
+}
+.lrc-li{
+	height: 50rpx;
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"progess{ padding: ",[0,20]," ",[0,10],"; }\n.",[1],"lrc-li{ height: ",[0,50],"; width: 100%; white-space: nowrap; overflow: hidden; -o-text-overflow: ellipsis; text-overflow: ellipsis; }\n",],undefined,{path:"./pages/music/music.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/music/music.wxml') } }));
